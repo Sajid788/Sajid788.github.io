@@ -19,7 +19,7 @@ const Contact = () => {
   }
 
   const mailTo = () => {
-    window.open("mailto:rajshreejaiswal0907@gmail.com", "_blank");
+    window.open("mailto:mdsajidalam8340@gmail.com", "_blank");
   };
   return (
     <Zoom className="contactDiv" in={checked1}>

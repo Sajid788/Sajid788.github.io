@@ -15,7 +15,7 @@ import LinearDeterminate from "./ProgressComp";
 import "./Navbar.css";
 import { details } from "../../details";
 import Scroll from "react-scroll-to-element";
-import RAJSHREE_JAISWAL from "../../media/RAJSHREE_JAISWAL.pdf";
+ import Sajid_Ansari from "../../media/Sajid_Ansari.pdf";
 import MenuOutlinedIcon from "@mui/icons-material/MenuOutlined";
 import { Link } from "react-scroll";
 
@@ -40,7 +40,7 @@ const Navbar = ({ scollHandle }) => {
 
   const openResume = () => {
     window.open(
-      "https://drive.google.com/file/d/1SdQbGgeuZ0Iyvb0UnvxyTiqVRTVC3cg6/view?usp=sharing",//resume link
+      "https://drive.google.com/file/d/1tF3pU_qhdmhb8gB95OS-xdQ9X3jGSC03/view?usp=drive_link",//resume link
       "_blank"
     );
   };
@@ -142,10 +142,10 @@ const Navbar = ({ scollHandle }) => {
         })}
 
         <Box className="nav-link resume" onClick={openResume}>
-          <a href={RAJSHREE_JAISWAL} download="Rajshree-Jaiswal-Resume">
+          <a href={Sajid_Ansari} download="Sajid-Ansari-Resume">
             <Button
               variant="outlined"
-              download={RAJSHREE_JAISWAL}
+              download={Sajid_Ansari}
               id="resume-button-1"
               sx={{
                 border: "1px solid #008F11",

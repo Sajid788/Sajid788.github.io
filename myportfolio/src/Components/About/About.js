@@ -1,9 +1,9 @@
 import { Box, Button, Slide, Typography, Zoom, Grid } from "@mui/material";
 import React, { useEffect, useState } from "react";
 import "./About.css";
-import RajshreeJaiswal from "../../media/RajshreeJaiswal.png";
+import Sajid from "../../media/Sajid.png";
 import LinearDeterminate from "../MiniComponent/ProgressComp";
-import RAJSHREE_JAISWAL from "../../media/RAJSHREE_JAISWAL.pdf";
+ import Sajid_Ansari from "../../media/Sajid_Ansari.pdf";
 
 const About = () => {
   const [checked1, setChecked1] = useState(false);
@@ -25,7 +25,7 @@ const About = () => {
 
   const openResume = () => {
     window.open(
-      "https://drive.google.com/file/d/1SdQbGgeuZ0Iyvb0UnvxyTiqVRTVC3cg6/view?usp=sharing",//resume link
+      "https://drive.google.com/file/d/1tF3pU_qhdmhb8gB95OS-xdQ9X3jGSC03/view?usp=drive_link",//resume link
       "_blank"
     );
   };
@@ -85,8 +85,8 @@ const About = () => {
           >
             <Button
               variant="outlined"
-               href={RAJSHREE_JAISWAL}//resume
-              download="Rajshree-Jaiswal-Resume"
+                href={Sajid_Ansari}//resume
+              download="Sajid-Resume"
               id="resume-button-2"
               sx={{
                 border: "1px solid #008F11",
@@ -115,7 +115,7 @@ const About = () => {
             className="home-img"
             style={{ display: "block", margin: "auto", borderRadius: "5px" }}
             width={"60%"}
-            // src={} //image of portfolio
+            src={Sajid} //image of portfolio
           />
         </Box>
       </Grid>
