@@ -1,9 +1,9 @@
 import { Box, Button, Slide, Typography, Zoom, Grid } from "@mui/material";
 import React, { useEffect, useState } from "react";
 import "./About.css";
-import Sajid from "../../media/Sajid.png";
+import sajid from "../../media/sajid.jpg"
 import LinearDeterminate from "../MiniComponent/ProgressComp";
- import Sajid_Ansari from "../../media/Sajid_Ansari.pdf";
+import Sajid_Ansari from "../../media/Sajid_Ansari.pdf";
 
 const About = () => {
   const [checked1, setChecked1] = useState(false);
@@ -25,7 +25,7 @@ const About = () => {
 
   const openResume = () => {
     window.open(
-      "https://drive.google.com/file/d/1tF3pU_qhdmhb8gB95OS-xdQ9X3jGSC03/view?usp=drive_link",//resume link
+      "https://drive.google.com/file/d/1aYEDOn3I6RxVPgp9cyHLCzNXbbcl679t/view?usp=drive_link",//resume link
       "_blank"
     );
   };
@@ -65,7 +65,7 @@ const About = () => {
               fontFamily: "Poppins",
             }}
           >
-           Hi, I'm Md Sajid Ansari{" "}
+           Hi, I'm {" "}
             <span style={{ color: "white" }}>Md Sajid Ansari</span> and I thrive on bringing digital creations to life. The vast possibilities of the internet have always fascinated me, 
             and my passion is centered around crafting websites that not only impress visually but also bring joy to users.
             <br />
@@ -85,8 +85,8 @@ const About = () => {
           >
             <Button
               variant="outlined"
-                href={Sajid_Ansari}//resume
-              download="Sajid-Resume"
+               href={Sajid_Ansari}//resume
+              download="Sajid-Ansari-Resume"
               id="resume-button-2"
               sx={{
                 border: "1px solid #008F11",
@@ -115,7 +115,7 @@ const About = () => {
             className="home-img"
             style={{ display: "block", margin: "auto", borderRadius: "5px" }}
             width={"60%"}
-            src={Sajid} //image of portfolio
+             src={sajid} //image of portfolio
           />
         </Box>
       </Grid>

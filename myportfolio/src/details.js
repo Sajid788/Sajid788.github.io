@@ -1,7 +1,7 @@
-// import NetMeds from "./media/NetMeds.png";
-// import Spotify from "./media/Spotify.png";
-// import Electron from "./media/Electron.png";
-// import BigBasket from "./media/BigBasket.png";
+import BedBath from "./media/BedBath.png";
+import Hotel from "./media/Hotel.png";
+import Wine from "./media/Wine.png";
+
 
 export const details = {
   firstname: "Md Sajid",
@@ -92,45 +92,45 @@ export const details = {
   ],
   projects: [
     {
-      name: "NetMeds",
-      github: "https://github.com/RajshreeJaiswal/Netmeds-clone",
-      live: "https://65618d1fe167cf74a1530337--soft-cucurucho-8292f7.netlify.app/",
+      name: "Bed Bath Beyond",
+      github: "https://github.com/SursaChauhan/cut-coach-1829",
+      live: "https://6509b685de9fe80cfc50d9a3--velvety-hotteok-be9bd4.netlify.app/",
       type: "Colaborative",
       tech: ["HTML", "CSS", "JavaScript"],
-      // img: NetMeds,
+      img: BedBath,
       description:
-        "NetMeds is designed to revolutionize the way you access healthcare essentials. Our platform is meticulously crafted to provide a seamless and convenient experience for all your pharmaceutical and healthcare needs.",
+        "This is unit 4 final project. we are devolping clone of https://www.overstock.com/.",
     },
 
     {
-      name: "Spotify",
-      github: "https://github.com/RajshreeJaiswal/Clone-Spotify",
-      live: "https://spotify-two-virid.vercel.app/",
-      type: "Solo",
-      tech: ["React", "Chakra UI", "Redux"],
-      // img: Spotify,
+      name: "Gardon Resort",
+      github: "https://github.com/swatii23/glorious-calendar-2511",
+      live: "https://653652c73f8e7f008122786e--elegant-pudding-10faed.netlify.app/",
+      type: "Colaborative",
+      tech: ["HTML", "CSS", "JavaScript", "Chakra UI"],
+      img: Hotel,
       description:
-        "Spotify is a live streaming platform that allows users to listen millions of song on demand where user can listen millions of song.",
+        "Our hotel website is a showcase of sophistication and convenience. Its intuitive interface guides visitors through a visual journey of our exquisite accommodations, tempting them with breathtaking…",
     },
 
     {
-      name: "Electron",
-      github: "https://github.com/RajshreeJaiswal/Electron-ecommerce-website",
-      live: "https://64dcee8acb8ee428e7b63db9--charming-bienenstitch-d89c77.netlify.app/",
+      name: "Mine Wine",
+      github: "https://github.com/Vikaschaturvedi167/WineShop_project",
+      live: "https://64dc647497ed712d3fab4cb5--lambent-quokka-6e7d37.netlify.app/",
       type: "Collaborative",
-      tech: ["HTML", "CSS", "JavaScript"],
-      // img: Electron,
+      tech: ["React","Chakra UI"],
+      img: Wine,
       description:
-        "E-Commerce Web Application of electronic gadgets, This project aims to provide a user-friendly platform for online shopping, allowing users to browse through a wide range of products, make purchases, and manage their orders, all in one place.",
+        "In this project we have tried to make an Online Wine Ecommerce Website And and added functionally like Signup, Login, Search, Cart page, Payment Page. We used HTML, CSS, JavaScript ,React ,Bootstra…",
     },
     {
-      name: "BigBasket",
-      github: "https://github.com/RajshreeJaiswal/Big_Basket_Platform-Collab",
-      live: "https://64e7ae187eb6d30b420f1d46--lucky-cupcake-e72a9a.netlify.app/",
+      name: "Garden Resort",
+      github: "https://github.com/swatii23/glorious-calendar-2511",
+      live: "https://653652c73f8e7f008122786e--elegant-pudding-10faed.netlify.app/",
       type: "Collaborative",
-      tech: ["HTML", "CSS", "JavaScript"],
-      // img: BigBasket,
-      description: "E-commerce website that replicates the popular online grocery shopping platform, BigBasket. The project aims to showcase the frontend design and functionality of the BigBasket website, allowing users to browse products, add them to the cart, and proceed through the checkout process.",
+      tech: ["HTML", "CSS", "JavaScript", "Chakra UI"],
+      img: Hotel,
+      description: "Our hotel website is a showcase of sophistication and convenience. Its intuitive interface guides visitors through a visual journey of our exquisite accommodations, tempting them with breathtaking…",
     },
   ],
 };

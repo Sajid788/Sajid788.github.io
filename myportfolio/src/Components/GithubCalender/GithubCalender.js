@@ -31,7 +31,7 @@ export default function GithubCalender() {
         <GitHubCalendar
           className="react-activity-calendar"
           color="skyblue"
-          username="RajshreeJaiswal"
+          username="Sajid788"
         />
       </Box>
 
@@ -49,21 +49,21 @@ export default function GithubCalender() {
           <img
             id="github-top-langs"
             width="100%"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=RajshreeJaiswal&theme=transparent&hide_border=true&show_icons=true&locale=en&layout=compact&title_color=white&text_color=white"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=Sajid788&theme=transparent&hide_border=true&show_icons=true&locale=en&layout=compact&title_color=white&text_color=white"
           />
         </Box>
         <Box>
           <img
             id="github-stats-card"
             width="100%"
-            src="https://github-readme-stats.vercel.app/api?username=RajshreeJaiswal&theme=transparent&hide_border=true&show_icons=true&locale=en&title_color=white&text_color=white"
+            src="https://github-readme-stats.vercel.app/api?username=Sajid788&theme=transparent&hide_border=true&show_icons=true&locale=en&title_color=white&text_color=white"
           />
         </Box>
         <Box>
           <img
             id="github-streak-stats"
             width="100%"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=RajshreeJaiswal&theme=transparent&hide_border=true&title_color=white&text_color=white&sideNums=white&sideLabels=white&ring=white&fire=white&currStreakLabel=white&currStreakNum=white"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=Sajid788&theme=transparent&hide_border=true&title_color=white&text_color=white&sideNums=white&sideLabels=white&ring=white&fire=white&currStreakLabel=white&currStreakNum=white"
             alt=""
           />
         </Box>

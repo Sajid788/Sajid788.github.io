@@ -15,7 +15,7 @@ import LinearDeterminate from "./ProgressComp";
 import "./Navbar.css";
 import { details } from "../../details";
 import Scroll from "react-scroll-to-element";
- import Sajid_Ansari from "../../media/Sajid_Ansari.pdf";
+import Sajid_Ansari from "../../media/Sajid_Ansari.pdf";
 import MenuOutlinedIcon from "@mui/icons-material/MenuOutlined";
 import { Link } from "react-scroll";
 
@@ -40,7 +40,7 @@ const Navbar = ({ scollHandle }) => {
 
   const openResume = () => {
     window.open(
-      "https://drive.google.com/file/d/1tF3pU_qhdmhb8gB95OS-xdQ9X3jGSC03/view?usp=drive_link",//resume link
+      "https://drive.google.com/file/d/1aYEDOn3I6RxVPgp9cyHLCzNXbbcl679t/view?usp=drive_link",//resume link
       "_blank"
     );
   };
