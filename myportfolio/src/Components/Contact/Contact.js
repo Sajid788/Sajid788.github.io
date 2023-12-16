@@ -90,7 +90,7 @@ const Contact = () => {
             style={{
               textDecoration: "none",
               color: "white",
-              fontSize: "1.7rem",
+              fontSize: "1.2rem",
             }}
           >
             <i className="fa-brands fa-github"></i> Md Sajid Ansari
@@ -103,7 +103,7 @@ const Contact = () => {
             style={{
               textDecoration: "none",
               color: "white",
-              fontSize: "1.7rem",
+              fontSize: "1.2rem",
             }}
           >
             <i className="fa-brands fa-linkedin"></i> Md Sajid Ansari
@@ -116,7 +116,7 @@ const Contact = () => {
             style={{
               textDecoration: "none",
               color: "white",
-              fontSize: "1.7rem",
+              fontSize: "1.2rem",
             }}
           >
             <i className="fa-solid fa-phone"></i> +91-7061541556
@@ -129,7 +129,7 @@ const Contact = () => {
             style={{
               textDecoration: "none",
               color: "white",
-              fontSize: "1.5rem",
+              fontSize: "1.1rem",
             }}
           >
             <i className="fa-regular fa-envelope"></i>mdsajidalam8340@gmail.com
