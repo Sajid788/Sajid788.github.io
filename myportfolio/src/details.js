@@ -1,7 +1,7 @@
 import BedBath from "./media/BedBath.png";
 import Hotel from "./media/Hotel.png";
 import Wine from "./media/Wine.png";
-
+import Spotify from "./media/Spotify.png"
 
 export const details = {
   firstname: "Md Sajid",
@@ -73,6 +73,11 @@ export const details = {
       name: "Node JS",
       img: "https://img.icons8.com/fluency/512/node-js.png",
     },
+
+    {
+      name: "Firebase",
+      img: "https://www.gsriram.dev/static/a1a4f6968d81ce96a4391a38eba1c568/12f3f/firebase.png",
+    },
     // {
     //   name: "BootStrap",
     //   img: "https://img.icons8.com/color/512/bootstrap.png",
@@ -99,7 +104,7 @@ export const details = {
       tech: ["HTML", "CSS", "JavaScript"],
       img: BedBath,
       description:
-        "This is unit 4 final project. we are devolping clone of https://www.overstock.com/.",
+        "Bed Bath & Beyond is a popular retail chain in the United States that specializes in home goods and furnishings. The Bed Bath & Beyond website serves as an online platform where customers can brows…",
     },
 
     {
@@ -118,19 +123,19 @@ export const details = {
       github: "https://github.com/Vikaschaturvedi167/WineShop_project",
       live: "https://64dc647497ed712d3fab4cb5--lambent-quokka-6e7d37.netlify.app/",
       type: "Collaborative",
-      tech: ["React","Chakra UI"],
+      tech: ["CSS","JavaScript","React","Chakra UI"],
       img: Wine,
       description:
         "In this project we have tried to make an Online Wine Ecommerce Website And and added functionally like Signup, Login, Search, Cart page, Payment Page. We used HTML, CSS, JavaScript ,React ,Bootstra…",
     },
     {
-      name: "Garden Resort",
-      github: "https://github.com/swatii23/glorious-calendar-2511",
-      live: "https://653652c73f8e7f008122786e--elegant-pudding-10faed.netlify.app/",
+      name: "Spotify",
+      github: "https://github.com/Saurav9284/Spotify_Authentication_Firebase",
+      live: "https://spotifyauthentication.netlify.app/",
       type: "Collaborative",
-      tech: ["HTML", "CSS", "JavaScript", "Chakra UI"],
-      img: Hotel,
-      description: "Our hotel website is a showcase of sophistication and convenience. Its intuitive interface guides visitors through a visual journey of our exquisite accommodations, tempting them with breathtaking…",
+      tech: ["React","CSS","JavaScript", "Firebase"],
+      img: Spotify,
+      description: "Firebase-Enabled Spotify Authentication project! In a world where music connects us all, we've developed a streamlined authentication system to enhance your Spotify experience",
     },
   ],
 };
