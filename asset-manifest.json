@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.bf028b02.css",
-    "main.js": "/static/js/main.c6f738f7.js",
+    "main.js": "/static/js/main.bac65ce0.js",
     "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
     "static/media/Hotel.png": "/static/media/Hotel.1748e89eb628c7823a6c.png",
     "static/media/BedBath.png": "/static/media/BedBath.23b96cd54dac78857b68.png",
     "static/media/Wine.png": "/static/media/Wine.fd0a67e176238933b9fa.png",
     "static/media/Sajid_Ansari.pdf": "/static/media/Sajid_Ansari.c59bc374facc6a2f187b.pdf",
-    "static/media/sajid.jpg": "/static/media/sajid.93ebf6d796da70e37872.jpg",
+    "static/media/sajid.jpg": "/static/media/sajid.a33f3f4c6cabac3dd39b.jpg",
     "static/media/Spotify.png": "/static/media/Spotify.acf8fb8f49689013fb7d.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.bf028b02.css.map": "/static/css/main.bf028b02.css.map",
-    "main.c6f738f7.js.map": "/static/js/main.c6f738f7.js.map",
+    "main.bac65ce0.js.map": "/static/js/main.bac65ce0.js.map",
     "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf028b02.css",
-    "static/js/main.c6f738f7.js"
+    "static/js/main.bac65ce0.js"
   ]
 }
