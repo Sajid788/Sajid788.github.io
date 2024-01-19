@@ -98,7 +98,7 @@ export const details = {
   projects: [
     {
       name: "Bed Bath Beyond",
-      github: "https://github.com/SursaChauhan/cut-coach-1829",
+      github: "https://github.com/Sajid788/Bed-Bath-Beyond",
       live: "https://6509b685de9fe80cfc50d9a3--velvety-hotteok-be9bd4.netlify.app/",
       type: "Colaborative",
       tech: ["HTML", "CSS", "JavaScript"],
@@ -120,7 +120,7 @@ export const details = {
 
     {
       name: "Mine Wine",
-      github: "https://github.com/Vikaschaturvedi167/WineShop_project",
+      github: "https://github.com/Sajid788/WineShop",
       live: "https://64dc647497ed712d3fab4cb5--lambent-quokka-6e7d37.netlify.app/",
       type: "Collaborative",
       tech: ["CSS","JavaScript","React","Chakra UI"],
