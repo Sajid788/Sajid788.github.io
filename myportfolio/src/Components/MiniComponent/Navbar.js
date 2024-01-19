@@ -45,7 +45,7 @@ const Navbar = ({ scollHandle }) => {
     );
   };
 
-  window.addEventListener("scroll", () => {
+  window.addEventListener("scroll", () =>   {
     setScrolled(document.documentElement.scrollHeight) ;
   });
 
