@@ -25,7 +25,7 @@ const About = () => {
 
   const openResume = () => {
     window.open(
-      "https://drive.google.com/file/d/1Ci-N8zzfQpHjQWW5sjWPwfAaaYLtm9v0/view?usp=drive_link",//resume link
+      "https://drive.google.com/file/d/1kW0V-XDgP6q1jlEIK01XbZMUf-A5u5eX/view?usp=drive_link",//resume link
       "_blank"
     );
   };
@@ -65,8 +65,7 @@ const About = () => {
               fontFamily: "Poppins",
             }}
           >
-           Hi, I'm {" "}
-            <span style={{ color: "white" }}>Md Sajid Ansari</span> and I thrive on bringing digital creations to life. The vast possibilities of the internet have always fascinated me, 
+            A motivated and thrive on bringing digital creations to life. The vast possibilities of the internet have always fascinated me, 
             and my passion is centered around crafting websites that not only impress visually but also bring joy to users.
             <br />
             <br />

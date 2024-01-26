@@ -84,7 +84,7 @@ const Intro = () => {
           }}
           variant="h5"
         >
-         I'm a Full Stack Web Developer with a focus on creating exceptional digital experiences.
+         Full Stack Web Developer with a focus on creating exceptional digital experiences.
           While my expertise lies in building, I also contribute to design when needed.
            Currently, I'm dedicated to developing accessible,
           human-centered products that prioritize a seamless and inclusive user experience.
