@@ -1,7 +1,7 @@
 import BedBath from "./media/BedBath.png";
 import Hotel from "./media/Hotel.png";
-import Wine from "./media/Wine.png";
-import Spotify from "./media/Spotify.png"
+import Wine from "./media/Clothify.png";
+import Spotify from "./media/Crocs.png"
 
 export const details = {
   firstname: "Md Sajid",
@@ -119,23 +119,23 @@ export const details = {
     },
 
     {
-      name: "Mine Wine",
-      github: "https://github.com/Sajid788/WineShop",
-      live: "https://64dc647497ed712d3fab4cb5--lambent-quokka-6e7d37.netlify.app/",
+      name: "Clothify",
+      github: "https://github.com/Sajid788/Clothify",
+      live: "https://clothisa.netlify.app/",
       type: "Collaborative",
-      tech: ["CSS","JavaScript","React","Chakra UI"],
+      tech: ["React","Chakra UI","Node JS", "Express JS","Mongo DB" ],
       img: Wine,
       description:
-        "In this project we have tried to make an Online Wine Ecommerce Website And and added functionally like Signup, Login, Search, Cart page, Payment Page. We used HTML, CSS, JavaScript ,React ,Bootstra…",
+      "Clothify is top-quality branded clothing at unbeatable prices. Our curated collection ensures you'll find something stylish for every occasion. Shop with ease and enjoy significant savings at Clothify."
     },
     {
-      name: "Spotify",
-      github: "https://github.com/Saurav9284/Spotify_Authentication_Firebase",
-      live: "https://spotifyauthentication.netlify.app/",
-      type: "Collaborative",
-      tech: ["React","CSS","JavaScript", "Firebase"],
+      name: "Crocs",
+      github: "https://github.com/Sajid788/Crocs-land",
+      live: "https://corc.netlify.app",
+      type: "Solo",
+      tech: ["React","Chakra UI","CSS","JavaScript"],
       img: Spotify,
-      description: "Firebase-Enabled Spotify Authentication project! In a world where music connects us all, we've developed a streamlined authentication system to enhance your Spotify experience",
+      description: "Crocsland is a replication of Crocs, a renowned footwear brand recognized for its distinct foam clogs crafted from Croslite material. The brand originated in 2002 and has since broadened its range to encompass a variety of footwear styles, including shoes, sandals, boots, and others.",
     },
   ],
 };

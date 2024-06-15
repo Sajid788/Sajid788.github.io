@@ -25,7 +25,7 @@ const About = () => {
 
   const openResume = () => {
     window.open(
-      "https://drive.google.com/file/d/1kW0V-XDgP6q1jlEIK01XbZMUf-A5u5eX/view?usp=drive_link",//resume link
+      "https://drive.google.com/file/d/1mxxYIlh7g0xJglYm86aZR0CwlR_Yo5VP/view?usp=drive_link",//resume link
       "_blank"
     );
   };

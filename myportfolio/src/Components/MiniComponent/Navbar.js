@@ -40,7 +40,7 @@ const Navbar = ({ scollHandle }) => {
 
   const openResume = () => {
     window.open(
-      "https://drive.google.com/file/d/1kW0V-XDgP6q1jlEIK01XbZMUf-A5u5eX/view?usp=drive_link",//resume link
+      "https://drive.google.com/file/d/1QWpTqchYW2l9NbkDJ7c-L0kIsSy7UrLR/view?usp=sharing",//resume link
       "_blank"
     );
   };
