@@ -54,12 +54,20 @@ export const details = {
       img: "https://img.icons8.com/color/512/javascript.png",
     },
     {
+      name: "TypeScript",
+      img: "https://www.szymonwojaczek.pl/img/Typescript_logo_2020.fba71f93.png",
+    },
+    {
       name: "Java",
       img: "https://img.icons8.com/ios-filled/512/java-coffee-cup-logo.png",
     },
     {
-      name: "React",
+      name: "React.js",
       img: "https://img.icons8.com/office/512/react.png",
+    },
+    {
+      name: "Next.js",
+      img: "https://phiilu.com/images/icons/next-js-logo.png",
     },
     // {
     //   name: "Material UI",
